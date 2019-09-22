@@ -1,0 +1,1 @@
+exports.demoMdl  = require('./demo');
